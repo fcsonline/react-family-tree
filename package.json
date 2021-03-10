@@ -34,7 +34,7 @@
     "typescript": "3.9.6"
   },
   "dependencies": {
-    "relatives-tree": "2.0.x"
+    "relatives-tree": "2.1.x"
   },
   "homepage": "https://github.com/SanichKotikov/react-family-tree"
 }
